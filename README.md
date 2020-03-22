@@ -1,1 +1,1 @@
-# Sistema-cu-ntico-de-part-cula-en-una-l-nea
+# Sistema cuantico de particula en una linea
